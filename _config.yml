@@ -1,9 +1,9 @@
 theme: minima
 
 title: Zhifang's Blog
-author: Chad Baldwin
-email: blog@chadbaldwin.net
-url: https://chadbaldwin.net
+author: Zhifang Wang
+email: zhifangwg@gmail.com
+url: https://www.zhifang.cf
 
 timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
 future: false # GitHub Pages will publish future posts if this isn't set to false
@@ -12,9 +12,9 @@ description: >
   My first blog. Probably no one else will ever read it, but oh well.
 
 # Minima variables
-twitter_username:  chad_baldwin
-github_username:   chadbaldwin
-linkedin_username: chadbaldwin
+#twitter_username:  chad_baldwin
+#github_username:   chadbaldwin
+linkedin_username: zhifang wang
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
@@ -68,7 +68,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-google_analytics:
+#google_analytics:
   - UA-185058308-1 # Old GA Universal Analytics property
   - G-RY6FRPMXHZ # New GA4 property
 
