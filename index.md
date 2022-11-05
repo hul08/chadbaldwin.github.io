@@ -1,7 +1,7 @@
-Just your average everyday nerd, developer, motorcycle enthusiast, dog dad.
+Hi there! Welcome to my blog 👋.
 
-The business side of this blog is mostly about SQL Server, PowerShell, programming tips and tools.
+I'm Zhifang Wang.
 
-I also like to post about my hobbies...motorcycles, rubiks cubes, dogs, nerdy home projects, archery and whatever else I seem to be obsessing over that month.
+Living in Vancouver, BC.
 
 Hope you enjoy what you're reading here!
